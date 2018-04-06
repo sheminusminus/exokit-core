@@ -1,4 +1,4 @@
 # docs markdown file
 
-i live [here](https://github.com/sheminusminus/exokit-core/docs/index.md)!
+i live [here](https://github.com/sheminusminus/exokit-core/blob/master/docs/index.md)!
 
